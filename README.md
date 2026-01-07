@@ -58,8 +58,8 @@ Network-on-Chip 기반 AI 가속기를 위한 반복적 설계 공간 탐색 시
 
 **Iteration 2에서 최적 결과 도출:**
 
-| 메트릭 | 달성 값 | 설명 |
-|--------|---------|------|
+| 메트릭 | 달성 값 |
+|--------|---------|
 | **Execution Time** | 22,020.0 ns | 
 | **Energy Consumption** | 0.057796 mJ | 
 | **Throughput** | 48.76 TOps | |
