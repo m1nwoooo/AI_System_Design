@@ -2,6 +2,7 @@
 Iterative design space exploration for optimal neural network layer partitioning and placement on multi-core NoC architecture to maximize throughput and power efficiency.
 
 구체적인 개발과정, Ablation Study 등은 **AI_System_Design.pdf**로 첨부하였습니다.
+
 Project Constraint, Evaluation 등은 **TP_AS25_r2.2.pdf**로 첨부하였습니다.
 
 # NoC-based AI Accelerator Design Space Exploration 🚀
