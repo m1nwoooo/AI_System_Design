@@ -1,8 +1,8 @@
 # AI_System_Design
 Iterative design space exploration for optimal neural network layer partitioning and placement on multi-core NoC architecture to maximize throughput and power efficiency.
 
-구체적인 개발과정과 Waveform 등은 **AI_System_Design.pdf**로 첨부하였습니다.
-
+구체적인 개발과정, Ablation Study 등은 **AI_System_Design.pdf**로 첨부하였습니다.
+Project Constraint, Evaluation 등은 **TP_AS25_r2.2.pdf**로 첨부하였습니다.
 
 # NoC-based AI Accelerator Design Space Exploration 🚀
 
@@ -50,3 +50,18 @@ Network-on-Chip 기반 AI 가속기를 위한 반복적 설계 공간 탐색 시
 | 1 | Uniform Split | Vertical (DRAM 근접) | 베이스라인 |
 | 2 | Load+Compute Time 가중치 | Compute/Mem bound 판별 | MAC 균형 |
 | 3+ | Link BW 분석 + Boost | Bottleneck 기반 동적 | 병목 제거 |
+
+
+## 🎯 프로젝트 성과
+
+### 🏆 최우수 성적 달성
+
+**Iteration 2에서 최적 결과 도출:**
+
+| 메트릭 | 달성 값 | 설명 |
+|--------|---------|------|
+| **실행 시간** | 22,020.0 ns | 최소 레이턴시 달성 |
+| **에너지 소비** | 0.057796 mJ | 최소 에너지 소비 |
+| **처리량** | 48.76 TOps | 초당 48조 연산 처리 |
+| **전력 효율** | 18.58 TOps/W | 와트당 18조 연산 |
+
