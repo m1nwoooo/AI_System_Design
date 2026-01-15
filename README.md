@@ -56,6 +56,8 @@ Network-on-Chip 기반 AI 가속기를 위한 반복적 설계 공간 탐색 시
 ## 🎯 프로젝트 성과
 
 ### 🏆 최우수 성적 달성
+**<This Work>**
+<img width="590" height="379" alt="image" src="https://github.com/user-attachments/assets/9f20abb4-8969-4315-8c67-6a3fc6df04d5" />
 
 **Iteration 2에서 최적 결과 도출:**
 
